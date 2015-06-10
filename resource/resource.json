@@ -1,0 +1,85 @@
+{
+  "groups": [
+    {
+      "keys": "bgImage,bgTop,egretIcon,startBtn,stage,player,skill,okBtn,backBtn,playerP,playerD,floorP,floorD,bg2,bottom",
+      "name": "preload"
+    }
+  ],
+  "resources": [
+    {
+      "name": "bgImage",
+      "type": "image",
+      "url": "assets/bg.png"
+    },
+    {
+      "name": "bgTop",
+      "type": "image",
+      "url": "assets/bgTop.png"
+    },
+    {
+      "name": "startBtn",
+      "type": "image",
+      "url": "assets/startBtn.png"
+    },
+    {
+      "name": "egretIcon",
+      "type": "image",
+      "url": "assets/egret_icon.png"
+    },
+    {
+      "name": "stage",
+      "type": "image",
+      "url": "assets/stage.png"
+    },
+    {
+      "name": "okBtn",
+      "type": "image",
+      "url": "assets/okBtn.png"
+    },
+    {
+      "name": "backBtn",
+      "type": "image",
+      "url": "assets/backBtn.png"
+    },
+    {
+      "name": "skill",
+      "type": "image",
+      "url": "assets/skill.png"
+    },
+    {
+      "name": "bg2",
+      "type": "image",
+      "url": "assets/bg2.png"
+    },
+    {
+      "name": "bottom",
+      "type": "image",
+      "url": "assets/bottom.png"
+    },
+    {
+      "name": "floor1",
+      "type": "image",
+      "url": "assets/floor1.png"
+    },
+    {
+      "name": "playerP",
+      "type": "image",
+      "url": "assets/player.png"
+    },
+    {
+      "name": "playerD",
+      "type": "json",
+      "url": "assets/player.json"
+    },
+    {
+      "name": "floorP",
+      "type": "image",
+      "url": "assets/floor.png"
+    },
+    {
+      "name": "floorD",
+      "type": "json",
+      "url": "assets/floor.json"
+    }
+  ]
+}
