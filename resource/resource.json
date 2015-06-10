@@ -1,7 +1,7 @@
 {
   "groups": [
     {
-      "keys": "bgImage,bgTop,egretIcon,startBtn,stage,player,skill,okBtn,backBtn,playerP,playerD,floorP,floorD,bg2,bottom",
+      "keys": "bgImage,bgTop,egretIcon,startBtn,stage,player,skill,okBtn,backBtn,playerP,playerD,monsterP,monsterD,floorP,floorD,bg2,bottom",
       "name": "preload"
     }
   ],
@@ -80,6 +80,16 @@
       "name": "floorD",
       "type": "json",
       "url": "assets/floor.json"
+    },
+    {
+      "name": "monsterP",
+      "type": "image",
+      "url": "assets/monster.png"
+    },
+    {
+      "name": "monsterD",
+      "type": "json",
+      "url": "assets/monster.json"
     }
   ]
 }
